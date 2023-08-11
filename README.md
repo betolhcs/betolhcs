@@ -2,9 +2,9 @@
 
 ## About me
 
-I'm Luís Humberto, a Mechatronics/Control and Automation Engineer, graduated at UnB (Universidade de Brasília).
+I'm Luís Humberto, a Mechatronics/Control and Automation Engineer, graduated at UnB (<a href="http://www.unb.br">Universidade de Brasília <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/1280px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png" width="24"></a>).
 
-I'm a Full Stack Developer with a focus on React and Python.
+I'm a Full Stack Developer with a focus on React and Python. I am motivated, disciplined and always trying to improve my work. Feel free to reach out if you need any help with a project, or just want to say hi!
 
 
 ## Tecnologies
@@ -18,23 +18,8 @@ I'm a Full Stack Developer with a focus on React and Python.
 ![Git](https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/-C-3f7abd?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<h3>Contact me</h3>
+## Contact me
 
-[![Gmail Badge](https://img.shields.io/badge/-betolhcs@protonmail.com-8B89CC?style=flat&logo=protonmail&logoColor=white&link=mailto:betolhcs@protonmail.com)](mailto:betolhcs@protonmail.com)
-
-<!--
-**betolhcs/betolhcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ProtonMail](https://img.shields.io/badge/-betolhcs@protonmail.com-8B89CC?style=flat&logo=protonmail&logoColor=white&link=mailto:betolhcs@protonmail.com)](mailto:betolhcs@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3f7abd?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/betolhcs)](https://www.linkedin.com/in/betolhcs)
